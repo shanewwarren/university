@@ -1,0 +1,32 @@
+{
+  "name": "hapi-university-assignment-one",
+  "version": "0.0.1",
+  "description": "Create a basic HTTP Hapi server. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hapijs/university.git"
+  },
+  "keywords": [
+    "hapi",
+    "http",
+    "server"
+  ],
+  "author": "Shane Warren",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hapijs/university/issues"
+  },
+  "homepage": "https://github.com/hapijs/university#readme",
+  "dependencies": {
+    "hapi": "^8.6.1"
+  },
+  "devDependencies": {
+    "code": "^1.4.1",
+    "hoek": "^2.14.0",
+    "lab": "^5.11.0"
+  }
+}
